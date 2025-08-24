@@ -1,0 +1,20 @@
+# .chainlit/config.toml
+
+[project]
+name = "Chat Client"
+public = false
+
+[UI]
+name = "Chat"
+hide_cot = true
+default_collapse_content = false
+default_expand_messages = false
+hide_watermark = true
+
+[theme]
+default = "light"
+
+[features]
+prompt_playground = false
+unsafe_allow_html = false
+auto_tag_thread = false
