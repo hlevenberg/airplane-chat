@@ -11,7 +11,7 @@ Minimal native chat client for ch.at API using Vue 3, TypeScript, and Electron.
 
 ### 1. Clone the repository
 ```bash
-git clone [[https://github.com/hlevenberg/airplane-chat.git](https://github.com/hlevenberg/airplane-chat)
+git clone https://github.com/hlevenberg/airplane-chat.git
 cd airplane-chat
 ```
 
